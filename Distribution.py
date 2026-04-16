@@ -55,7 +55,7 @@ plt.title("Poison Distribution")
 plt.xlabel("Price")
 plt.ylabel("Frequency")
 plt.tight_layout()
-plt.savefig("Pics/Poison_histogram.png", dpi=200, bbox_inches="tight")
+plt.savefig("Pics/Poisson_histogram.png", dpi=200, bbox_inches="tight")
 plt.close()
 
 # Binomial Distribution
