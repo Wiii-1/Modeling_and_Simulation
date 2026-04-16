@@ -27,7 +27,7 @@ plt.title("Exponential Distribution")
 plt.xlabel("Price")
 plt.ylabel("Frequency")
 plt.tight_layout()
-plt.savefig("Exponential_histogram.png", dpi=200, bbox_inches="tight")
+plt.savefig("Pics/Exponential_histogram.png", dpi=200, bbox_inches="tight")
 plt.close()
 
 # Normal Distribution
@@ -40,7 +40,7 @@ plt.title("Normal Distribution")
 plt.xlabel("Price")
 plt.ylabel("Frequency")
 plt.tight_layout()
-plt.savefig("Normal_histogram.png", dpi=200, bbox_inches="tight")
+plt.savefig("Pics/Normal_histogram.png", dpi=200, bbox_inches="tight")
 plt.close()
 
 # Poisson Distribution
@@ -55,7 +55,7 @@ plt.title("Poison Distribution")
 plt.xlabel("Price")
 plt.ylabel("Frequency")
 plt.tight_layout()
-plt.savefig("Poison_histogram.png", dpi=200, bbox_inches="tight")
+plt.savefig("Pics/Poison_histogram.png", dpi=200, bbox_inches="tight")
 plt.close()
 
 # Binomial Distribution
@@ -71,7 +71,7 @@ plt.title("Binomial Distribution")
 plt.xlabel("The number of Successes in 20 auction sales")
 plt.ylabel("Frequency")
 plt.tight_layout()
-plt.savefig("Binomial_histogram.png", dpi=200, bbox_inches="tight")
+plt.savefig("Pics/Binomial_histogram.png", dpi=200, bbox_inches="tight")
 plt.close()
 
 # Triangular Distribution
@@ -84,7 +84,7 @@ plt.title("Triangular Distribution")
 plt.xlabel("Price")
 plt.ylabel("Frequency")
 plt.tight_layout()
-plt.savefig("Triangular_histogram.png", dpi=200, bbox_inches="tight")
+plt.savefig("Pics/Triangular_histogram.png", dpi=200, bbox_inches="tight")
 plt.close()
 
 # Lognormal Distribution
@@ -101,7 +101,7 @@ plt.title("Lognormal Distribution")
 plt.xlabel("Price")
 plt.ylabel("Frequency")
 plt.tight_layout()
-plt.savefig("Lognormal_histogram.png", dpi=200, bbox_inches="tight")
+plt.savefig("Pics/Lognormal_histogram.png", dpi=200, bbox_inches="tight")
 plt.close()
 
 # Gamma Distribution
@@ -117,7 +117,7 @@ plt.title("Gamma Distribution")
 plt.xlabel("Price")
 plt.ylabel("Frequency")
 plt.tight_layout()
-plt.savefig("Gamma_histogram.png", dpi=200, bbox_inches="tight")
+plt.savefig("Pics/Gamma_histogram.png", dpi=200, bbox_inches="tight")
 plt.close()
 
 # Beta Distribution
@@ -132,7 +132,7 @@ plt.title("Beta Distribution")
 plt.xlabel("Price")
 plt.ylabel("Frequency")
 plt.tight_layout()
-plt.savefig("Beta_histogram.png", dpi=200, bbox_inches="tight")
+plt.savefig("Pics/Beta_histogram.png", dpi=200, bbox_inches="tight")
 plt.close()
 
 # Weibull Distribution
@@ -145,7 +145,7 @@ plt.title("Weibull Distribution")
 plt.xlabel("Price")
 plt.ylabel("Frequency")
 plt.tight_layout()
-plt.savefig("Weibull_histogram.png", dpi=200, bbox_inches="tight")
+plt.savefig("Pics/Weibull_histogram.png", dpi=200, bbox_inches="tight")
 plt.close()
 
 # Uniform Distribution
@@ -158,5 +158,5 @@ plt.title("Uniform Distribution")
 plt.xlabel("Price")
 plt.ylabel("Frequency")
 plt.tight_layout()
-plt.savefig("Uniform_histogram.png", dpi=200, bbox_inches="tight")
+plt.savefig("Pics/Uniform_histogram.png", dpi=200, bbox_inches="tight")
 plt.close()
