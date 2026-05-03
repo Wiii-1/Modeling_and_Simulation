@@ -18,6 +18,7 @@ The goal is educational: compare how different distributions shape possible outc
 4. Simulates random values for each distribution.
 5. Creates and saves histogram plots into `Pics/`.
 
+
 ## Distributions Included and Explanation
 
 ### 1) Exponential Distribution
@@ -85,6 +86,12 @@ The script saves one histogram image per distribution in `Pics/`:
 - Beta_histogram.png
 - Weibull_histogram.png
 - Uniform_histogram.png
+
+## output
+
+The results of the distribution on the GTR auction resale have showed that the that prices that ends up as sold is primarily fall un 30-70k Dollars. These results are just purely generated data from the simulated prices based on the gtr_auction_resale_dataset.csv. 
+
+The best distribution that showed the most viable solution are the lognormal distribution and the gamma distribution showing the prices are increasing and are less to be successful in being sold as the prices are high and not many will bid higher for 150k prices and up.
 
 ## How To Run
 From the project root:
