@@ -89,9 +89,11 @@ The script saves one histogram image per distribution in `Pics/`:
 
 ## output
 
-The results of the distribution on the GTR auction resale have showed that the that prices that ends up as sold is primarily fall un 30-70k Dollars. These results are just purely generated data from the simulated prices based on the gtr_auction_resale_dataset.csv. 
+The simulated resale price distributions suggest that many auction sale prices cluster around the 30,000 to 70,000 USD range, based on the generated samples from the dataset. The lognormal and gamma distributions appear more suitable for modeling resale prices because they represent positive, right-skewed values more realistically than symmetric or count-based distributions. This project is intended for educational comparison of distributions rather than definitive price prediction.
 
-The best distribution that showed the most viable solution are the lognormal distribution and the gamma distribution showing the prices are increasing and are less to be successful in being sold as the prices are high and not many will bid higher for 150k prices and up.
+## Video Explanation
+
+This folder contains my personal video explanation of the project, where I explain the idea, process, and interpretation in my own words: [View the Google Drive folder](https://drive.google.com/drive/folders/1vwK9bOiaGMbqt-aWh01FyJopVicv4vqE?usp=sharing)
 
 ## How To Run
 From the project root:
