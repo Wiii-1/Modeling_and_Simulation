@@ -1,0 +1,6 @@
+metric,value
+suggested_warmup_customers_welch,0
+replication_deletion_mean_wait,6.768472
+batch_means_mean_wait,5.696425
+number_of_replications,10
+number_of_batches,20
